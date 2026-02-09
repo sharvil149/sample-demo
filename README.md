@@ -1,4 +1,4 @@
 # sample-demo
 This is my first repo
 <br>
-Author- Sharvil Thorat
+Author- Sharvil Thorat(Somaiya College)
